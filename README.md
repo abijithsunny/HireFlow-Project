@@ -416,13 +416,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 ## 👨‍💻 Author
 
-Built with ❤️ using the MERN stack.
+Designed and Coded by Abijith Sunny
 
-If this project helped you, please consider giving it a ⭐ on GitHub!
 
-<div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/hireflow?style=social)](https://github.com/your-username/hireflow)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/hireflow?style=social)](https://github.com/your-username/hireflow)
-
-</div>
